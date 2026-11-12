@@ -1,0 +1,19 @@
+{
+  "file": "samples/scans/d0000_driver_license.jpg",
+  "doc_type": "driver_license",
+  "fields": {
+    "owner_last": "ВИНОГРАДОВА",
+    "owner_first": "ЛЮБОВЬ",
+    "owner_middle": "НАУМОВНА",
+    "birth_date": "26.10.1971",
+    "birth_place": "Г. САРАТОВ",
+    "issue_date": "06.02.2025",
+    "valid_until": "06.02.2035",
+    "issued_by": "ГИБДД 6488",
+    "doc_number": "64 15 795186",
+    "region": "САРАТОВСКАЯ ОБЛ",
+    "dl_categories": "B, B1, M"
+  },
+  "seconds": 0.47,
+  "error": null
+}
